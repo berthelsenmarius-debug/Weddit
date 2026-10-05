@@ -7,5 +7,4 @@ namespace Model
         public List<Book> Books { get; set; } = new List<Book>(); 
     }
     
-    
 }
